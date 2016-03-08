@@ -1,0 +1,21 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 800;
+}
+
+.tg--header h1, h2, h3, h4, h5, h6 {
+    color: brown !important;
+}
+
+.tg--list {
+  margin-top: 15px;
+}
+
+.tg--callout {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.tg--footer {
+  margin-top: 65px;
+}
