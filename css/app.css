@@ -1,3 +1,7 @@
+body {
+  background: aliceblue;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Work Sans', sans-serif;
   font-weight: 800;
@@ -12,8 +16,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .tg--callout {
-  border: 1px solid black;
-  padding: 5px;
+  border: 2px solid #2199e8
+  padding: 15px;
+  background-color: #fdfdfd;
+}
+
+.tg--callout a {
+  font-weight: bold;
 }
 
 .tg--footer {
