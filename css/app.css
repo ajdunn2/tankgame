@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .tg--callout {
-  border: 2px solid #2199e8
+  border: 3px solid #2199e8;
   padding: 15px;
   background-color: #fdfdfd;
 }
@@ -27,4 +27,22 @@ h1, h2, h3, h4, h5, h6 {
 
 .tg--footer {
   margin-top: 65px;
+}
+
+.button {
+  font-weight: bold;
+}
+
+.playgame {
+  margin-top: 5px;
+  margin-bottom: 25px;
+}
+
+.menu {
+ background-color: whitesmoke;
+  border: 3px solid #2199e8;
+}
+
+ul.gamesdev li {
+    list-style-type: none;
 }
